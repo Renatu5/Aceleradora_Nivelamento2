@@ -1,2 +1,3 @@
 # Aceleradora_Nivelamento2
-Período de nivelamento dentro da Aceleradora Ágil.
+
+Neste respositório estarei colocando os exercícios de nivelamento da Aceleradora Ágil, envolvendo princincipalmente lógica de programação.
